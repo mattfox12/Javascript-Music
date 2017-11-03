@@ -1,0 +1,25 @@
+.player {
+	background: #CCC;
+	padding: 1px 5px 10px;
+	width: 200px;
+	margin-top: 20px;
+}
+
+.button {
+	text-align: center;
+	padding: 5px 10px;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.btn-green { background: #9C9; border: solid 1px #696; }
+.btn-green:hover { background: #ADA; }
+
+.hidden { display: none; }
+.center { text-align: center; margin-left: auto; margin-right: auto;}
+
+.w100 { width: 100%; }
+.h-250 { height: 250px; }
+
+.m10 { margin: 10px; }
+.p10 { padding: 10px; }
